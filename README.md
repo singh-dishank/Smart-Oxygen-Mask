@@ -5,6 +5,12 @@ reminder, suffocation, oxygen saturation. It also gives
 notifications if the person is trying to remove mask.
 
 ## Components Used
+1. Arduino UNO 
+2.  Temperature & Humidity Sensor DHT11
+3.  Proximity Sensor
+4.  Pulse Oximeter MAX30100
+5.  Infrared Thermometer Sensor MLX90614
+6.  BLYNK Software
 
 ## Block Diagram
 
@@ -64,6 +70,10 @@ smartphones and thereby reducing the time, they
 spent in the isolation ward to collect basic 
 parameters, which reduces the risks of them 
 being infected
+
+## Circuit Diagram 
+
+## Hardware 
 
 ## Conclusion
 The IoT device attached to the mask processes and screens 
